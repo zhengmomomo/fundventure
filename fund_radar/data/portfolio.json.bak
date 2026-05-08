@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "positions": {
+    "013841": {
+      "code": "013841",
+      "name": "银华集成电路混合C",
+      "share": 435.94,
+      "cost_nav": 1.7873,
+      "latest_nav": 2.1581,
+      "nav_date": "2026-05-06",
+      "first_buy_date": "2026-05-06",
+      "yesterday_change_percent": 1.97,
+      "holding_amount": 940.8021140000001,
+      "holding_profit": 161.646552,
+      "holding_profit_rate": 20.746377217031277,
+      "yesterday_profit": 18.17573957614991,
+      "updated_at": "2026-05-07T15:44:32"
+    }
+  },
+  "watchlist": {},
+  "pending_trades": [],
+  "trade_history": []
+}

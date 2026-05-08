@@ -8,13 +8,6 @@ __pycache__/
 .codex/
 .claude/
 
-# Local data and personal portfolio files
-fund_radar/data/*.json
-fund_radar/data/*.log
-fund_radar/data/*.bak
-fund_radar/data/*.before-*
-fund_radar/data/holding.md
-
 # Large/local archives
 *.zip
 
