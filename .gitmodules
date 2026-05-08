@@ -1,0 +1,3 @@
+[submodule "fund-baby"]
+	path = fund-baby
+	url = git@github.com:zhengshengning/fund-baby.git
